@@ -24,11 +24,11 @@ var clientes = [
 
 function adicionarCliente(id, nome, sobrenome, idade, contato) {
   clientes.push({
-    id: id,
-    nome: nome,
-    sobrenome: sobrenome,
-    idade: idade,
-    contato: contato,
+    id: 4,
+    nome: "Victor",
+    sobrenome: "Ribeiro",
+    idade: 20,
+    contato: "(33) 9 3333-3333",
   });
 }
 
